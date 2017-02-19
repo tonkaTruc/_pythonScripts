@@ -5,7 +5,7 @@ import requests
 
 # https://jira.atlassian.com/rest/api/latest/issue/JRA-9
 
-HOST = "jira.atlassian"							# "calrec-jira:9090"
+HOST = "jira.atlassian"							# <calrec jira server URL>
 RESOURCE = "issue"
 ISSUE_ID = "JRA-9"
 
